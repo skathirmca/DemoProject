@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kathir\\Workspace\\DemoProject\\DemoPipeline\\DemoPipeline\\DemoPipeline.csproj",
+      "projectUniqueName": "D:\\Kathir\\Workspace\\github\\DemoProject\\DemoPipeline\\DemoPipeline.csproj",
       "projectName": "DemoPipeline",
-      "projectPath": "D:\\Kathir\\Workspace\\DemoProject\\DemoPipeline\\DemoPipeline\\DemoPipeline.csproj",
+      "projectPath": "D:\\Kathir\\Workspace\\github\\DemoProject\\DemoPipeline\\DemoPipeline.csproj",
       "packagesPath": "C:\\Users\\kathi\\.nuget\\packages\\",
-      "outputPath": "D:\\Kathir\\Workspace\\DemoProject\\DemoPipeline\\DemoPipeline\\obj\\",
+      "outputPath": "D:\\Kathir\\Workspace\\github\\DemoProject\\DemoPipeline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
